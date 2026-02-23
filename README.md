@@ -54,3 +54,7 @@
 - Watching seasonal anime and refining AiringDeck week by week.
 - Iterating on UI details, readability, and overall UX quality.
 - Testing release builds to keep updates stable and smooth.
+- Expanding automated checks before each public release.
+- Improving installer quality and first-run experience on Windows.
+- Keeping documentation clear and aligned with actual app behavior.
+- Balancing coding sessions with F1 race weekends.
