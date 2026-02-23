@@ -49,6 +49,8 @@
 - Keep AiringDeck fast on low-end and high-DPI setups.
 - Ship stable, user-focused updates.
 
-## Contact
+## Now
 
-- GitHub: [@Pankyop](https://github.com/Pankyop)
+- Watching seasonal anime and refining AiringDeck week by week.
+- Iterating on UI details, readability, and overall UX quality.
+- Testing release builds to keep updates stable and smooth.
