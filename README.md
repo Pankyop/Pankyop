@@ -31,6 +31,8 @@
   <a href="https://github.com/Pankyop/AiringDeck/commits/master"><img src="https://img.shields.io/github/last-commit/Pankyop/AiringDeck?style=flat" alt="Last Commit"></a>
   <a href="https://github.com/Pankyop/AiringDeck/issues"><img src="https://img.shields.io/github/issues/Pankyop/AiringDeck?style=flat" alt="Issues"></a>
   <a href="https://github.com/Pankyop/AiringDeck/pulls"><img src="https://img.shields.io/github/issues-pr/Pankyop/AiringDeck?style=flat" alt="PRs"></a>
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Qt-6.7-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt">
 </p>
 
 ## About
