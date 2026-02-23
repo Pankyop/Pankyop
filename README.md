@@ -33,10 +33,10 @@
 
 ## About
 
-- I am an Italian developer focused on desktop apps with Python + Qt.
+- I am an Italian developer building desktop apps with Python + Qt.
 - I watch anime regularly and build tools around the anime ecosystem.
 - Ferrari is my F1 team, always.
-- I care about performance, UI clarity, and predictable releases.
+- I really care about program look, user experience, and graphical interface quality.
 - Main public project: [`AiringDeck`](https://github.com/Pankyop/AiringDeck).
 
 ## Current Focus
