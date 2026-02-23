@@ -49,11 +49,6 @@
 - Keep AiringDeck fast on low-end and high-DPI setups.
 - Ship stable, user-focused updates.
 
-## Courses & Certifications
-
-- Completed: Cisco Networking Academy - IT Essentials (student-level credential).
-- In progress: continuous learning on software quality, testing, and release engineering.
-
 ## Tools I Use
 
 - Development: VS Code, Git, GitHub
