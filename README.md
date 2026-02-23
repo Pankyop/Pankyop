@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Italy-009246?style=flat" alt="Based in Italy">
+  <img src="https://img.shields.io/badge/Anime-Fan-ff4fa3?style=flat" alt="Anime Fan">
+  <img src="https://img.shields.io/badge/F1-Tifoso%20Ferrari-DC0000?style=flat" alt="Ferrari F1 Supporter">
+</p>
+
+<p align="center">
   <a href="https://github.com/Pankyop?tab=followers"><img src="https://img.shields.io/github/followers/Pankyop?style=flat&label=Followers" alt="Followers"></a>
   <a href="https://github.com/Pankyop/AiringDeck/releases"><img src="https://img.shields.io/github/v/release/Pankyop/AiringDeck?display_name=tag&style=flat" alt="Release"></a>
   <a href="https://github.com/Pankyop/AiringDeck/releases"><img src="https://img.shields.io/github/downloads/Pankyop/AiringDeck/total?style=flat" alt="Downloads"></a>
@@ -27,7 +33,9 @@
 
 ## About
 
-- I build desktop software with Python + Qt.
+- I am an Italian developer focused on desktop apps with Python + Qt.
+- I watch anime regularly and build tools around the anime ecosystem.
+- Ferrari is my F1 team, always.
 - I care about performance, UI clarity, and predictable releases.
 - Main public project: [`AiringDeck`](https://github.com/Pankyop/AiringDeck).
 
