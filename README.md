@@ -51,10 +51,8 @@
 
 ## Now
 
-- Watching seasonal anime and refining AiringDeck week by week.
-- Iterating on UI details, readability, and overall UX quality.
-- Testing release builds to keep updates stable and smooth.
-- Expanding automated checks before each public release.
-- Improving installer quality and first-run experience on Windows.
-- Keeping documentation clear and aligned with actual app behavior.
-- Balancing coding sessions with F1 race weekends.
+- Following the current anime season and catching up on classics.
+- Watching every F1 weekend and supporting Ferrari.
+- Improving my daily routine with better focus and consistency.
+- Listening to soundtracks and playlists while studying and planning.
+- Keeping a simple notebook with ideas, goals, and lessons learned.
