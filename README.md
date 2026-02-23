@@ -51,9 +51,8 @@
 
 ## Courses & Certifications
 
-- Completed: _Add your completed course/certification here._
-- Completed: _Add your completed course/certification here._
-- In progress: _Add your current learning path here._
+- Completed: Cisco Networking Academy - IT Essentials (student-level credential).
+- In progress: continuous learning on software quality, testing, and release engineering.
 
 ## Tools I Use
 
