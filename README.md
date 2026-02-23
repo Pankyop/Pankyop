@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  AiringDeck stack: Python + Qt/QML.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Italy-009246?style=flat" alt="Based in Italy">
   <img src="https://img.shields.io/badge/Anime-Fan-ff4fa3?style=flat" alt="Anime Fan">
   <img src="https://img.shields.io/badge/F1-Tifoso%20Ferrari-DC0000?style=flat" alt="Ferrari F1 Supporter">
