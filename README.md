@@ -49,6 +49,18 @@
 - Keep AiringDeck fast on low-end and high-DPI setups.
 - Ship stable, user-focused updates.
 
+## Courses & Certifications
+
+- Completed: _Add your completed course/certification here._
+- Completed: _Add your completed course/certification here._
+- In progress: _Add your current learning path here._
+
+## Tools I Use
+
+- Development: VS Code, Git, GitHub
+- Desktop app stack: Python, Qt/QML
+- Packaging and release: PyInstaller, Inno Setup, GitHub Actions
+
 ## Now
 
 - Following the current anime season and catching up on classics.
