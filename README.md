@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/Pankyop?tab=followers"><img src="https://img.shields.io/github/followers/Pankyop?style=flat&label=Followers" alt="Followers"></a>
   <a href="https://github.com/Pankyop/AiringDeck/releases"><img src="https://img.shields.io/github/v/release/Pankyop/AiringDeck?display_name=tag&style=flat" alt="Release"></a>
-  <a href="https://github.com/Pankyop/AiringDeck/releases"><img src="https://img.shields.io/github/downloads/Pankyop/AiringDeck/total?style=flat" alt="Downloads"></a>
+  <a href="https://github.com/Pankyop/AiringDeck/releases"><img src="https://img.shields.io/github/downloads/Pankyop/AiringDeck/latest/total?style=flat&label=downloads" alt="Downloads"></a>
   <a href="https://github.com/Pankyop/AiringDeck/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Pankyop/AiringDeck?style=flat" alt="License"></a>
 </p>
 
