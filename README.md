@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Pankyop
 
 <p align="center">
@@ -59,25 +60,30 @@ VS Code • Git • GitHub • Desktop Applications
 
 ## 📁 My Projects
 
-### 🎯 AiringDeck
-A native desktop application for tracking anime airing schedules with seamless **AniList** integration.
+### 🎯 Discord Rich Presence for Jellyfin
+
+A Jellyfin plugin that displays your media playback as **Discord Rich Presence** in real time. It communicates with the Discord desktop client through local IPC, with no cloud relays or Discord Social SDK required.
 
 <p align="left">
-  <a href="https://github.com/Pankyop/AiringDeck/releases"><img src="https://img.shields.io/github/v/release/Pankyop/AiringDeck?display_name=tag&style=flat-square" alt="Latest Release"></a>
-  <a href="https://github.com/Pankyop/AiringDeck/releases"><img src="https://img.shields.io/github/downloads/Pankyop/AiringDeck/latest/total?style=flat-square&label=downloads" alt="Downloads"></a>
-  <a href="https://github.com/Pankyop/AiringDeck"><img src="https://img.shields.io/badge/Repository-AiringDeck-181717?style=flat-square&logo=github" alt="Repository"></a>
-  <a href="https://github.com/Pankyop/AiringDeck/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Pankyop/AiringDeck?style=flat-square" alt="License"></a>
+  <a href="https://github.com/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin/releases"><img src="https://img.shields.io/github/v/release/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin?display_name=tag&style=flat-square" alt="Latest Release"></a>
+  <a href="https://github.com/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin/releases"><img src="https://img.shields.io/github/downloads/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin/latest/total?style=flat-square&label=downloads" alt="Downloads"></a>
+  <img src="https://img.shields.io/badge/.NET-8.0-purple?style=flat-square" alt=".NET 8">
+  <a href="https://github.com/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin?style=flat-square" alt="License"></a>
 </p>
 
 **Key Features:**
-- 🖥️ Cross-platform desktop experience (Windows, macOS, Linux)
-- 📊 Real-time anime schedule tracking and notifications
-- 🔗 Seamless AniList API integration for user data synchronization
-- ✨ Intuitive UI with responsive design
-- 🎨 Modern interface with dark/light theme support
+- 🎬 **Movies & TV Shows** — displays titles, episode details, playback progress, and artwork
+- 🎵 **Music Playback** — shows track, artist, album artwork, and listening progress
+- 🔗 **Local Discord IPC** — uses Named Pipes on Windows and Unix Domain Sockets on Linux/macOS
+- 🔒 **Privacy First** — no telemetry; external metadata lookups are optional and disabled by default
+- ⚙️ **Jellyfin Dashboard Integration** — configure the plugin directly from the server administration panel
+- 🖥️ **Cross-platform support** — designed for Jellyfin servers running on Windows, Linux, and macOS
 
-**Repository:** [`Pankyop/AiringDeck`](https://github.com/Pankyop/AiringDeck)
-**Latest Release:** [Download](https://github.com/Pankyop/AiringDeck/releases)
+**Requirements:** .NET 8 · Jellyfin 10.9+ / 12.1+
+
+**Repository:** [`Pankyop/rich-presence-for-jellyfin-in-discord-Plugin`](https://github.com/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin)  
+**Latest Release:** [Download](https://github.com/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin/releases)  
+**Installation & Documentation:** [README](https://github.com/Pankyop/rich-presence-for-jellyfin-in-discord-Plugin#readme)
 
 ---
 
